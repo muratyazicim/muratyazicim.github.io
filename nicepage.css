@@ -49836,71 +49836,12 @@ a.u-link.u-text-hover-color-var.hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 177px;
+  min-height: 16px;
 }
 
-.u-header .u-menu-1 {
-  margin: 127px 302px 0 auto;
-}
 
-.u-header .u-nav-1 {
-  font-weight: 500;
-  font-size: 0.625rem;
-}
 
-.u-header .u-nav-link-2 {
-  padding: 10px 15px;
-}
 
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
-}
-
-.u-header .u-image-1 {
-  width: 98px;
-  height: 34px;
-  margin: -44px auto 30px 295px;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
-}
-@media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 98px;
-    height: 34px;
-    margin-top: -44px;
-    margin-left: 295px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-menu-1 {
-    margin-right: 231px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 226px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-menu-1 {
-    margin-right: 173px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 170px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-menu-1 {
-    margin-right: 109px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 107px;
-  }
-}
  .u-footer {
   background-image: none;
 }
